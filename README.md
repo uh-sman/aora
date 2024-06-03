@@ -1,0 +1,1 @@
+AORA is a social media react-native app . It is my very first native app built by me usman and I am hoping to build more soon.
