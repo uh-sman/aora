@@ -5,9 +5,6 @@ node_modules/
 
 # Expo
 .expo/
-.vscode
-.history
-.note.txt
 dist/
 web-build/
 
@@ -33,6 +30,14 @@ yarn-error.*
 
 # local env files
 .env*.local
+# Ignore .vscode directory
+.vscode/
+
+# Ignore .history directory
+.history/
+
+#Ignore .text file
+note.txt/
 
 # typescript
 *.tsbuildinfo
